@@ -1,4 +1,4 @@
-# murdermystery
+# Plugin does not work
 Plugin that adds a Murder Mystery gamemode to SCP: SL!
 This is a rip-off of a plugin I'm currently making, SCP: Secret Funhouse --- More details about this project will be released later
 
