@@ -1,0 +1,2 @@
+# scp-typical-gamemodes
+gamemodes
